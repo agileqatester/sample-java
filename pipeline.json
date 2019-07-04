@@ -13,7 +13,7 @@
   },
   "archive": {
     "registry": "docker.io",
-    "repository": "agileqatester/sample-java"
+    "repository": "agileqa/sample-java"
   },
   "deploy": {
     "containerPort": 8080
